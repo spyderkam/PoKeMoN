@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 squad = [] #self
 
 $gym_leader = ["Fearow", "Flaaffy", "Staryu"]
