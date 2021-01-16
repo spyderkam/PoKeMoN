@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require_relative "database"
 
 pool = ["Magikarp", "Pidgey", "Krabby", "Rattata", "Onix"]
